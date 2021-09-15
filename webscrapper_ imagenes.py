@@ -1,3 +1,6 @@
+# Este webscrapper fue construido en python junto con la librería selenium
+# Funciona con el navegador Firefox y es necesario descargar geckodriver
+
 # query: Buscar las imagenes en google , por ejemplo 'gato'
 # max_links_to_fetch: Numero de links que se van a obtener desde google
 # driver: instancia del Webdriver

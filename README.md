@@ -18,4 +18,4 @@ Esto se logra mediante un modelo de **red neuronal convolucional** propio, const
 
 Al final, se evalúa el desempeño mediante diferentes métricas como la matriz de confusión, la precisión, el recall y el F1 score.
 
-Para intentar mejorar las predicciones del modelo, se usa un webscrapper construido en Python para obtener imágenes directamente desde Google, sin embargo, dado que los datos del dataset son tomados mediante una misma cámara con igual resolución y dimensiones de imágen, es extremadamente complicado encontrar imagenes similares en google, por esta razón no se agregan imágenes nuevas al dataset ya que puede generar mayor sesgo al entrenamiento.
+Se intenta mejorar las predicciones del modelo, haciendo uso de un webscrapper construido en Python para obtener imágenes directamente desde Google, sin embargo, dado que los datos del dataset son tomados mediante una misma cámara con igual resolución y dimensiones de imágen, es extremadamente complicado encontrar imagenes similares en google, por esta razón no se agregan imágenes nuevas al dataset ya que puede generar mayor sesgo al entrenamiento.

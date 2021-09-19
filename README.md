@@ -14,11 +14,21 @@ Consiste en un problema de clasificación entre 6 tipos de residuos sólidos:
 
 Para aproximar una solución a este problema, se construye un clasificador de residuos sólidos con Tensorflow y Keras.
 
-Esto se logra mediante un modelo de **red neuronal convolucional** propio, construido y optimizado mediante modificación de hiperparámetros, obteniendo los siguientes resultados en la clasificación:
+Esto se logra con un modelo de **red neuronal convolucional** propio, construido y optimizado mediante modificación de hiperparámetros, obteniendo los siguientes resultados en la clasificación:
 
 ![alt text](https://raw.githubusercontent.com/js-munozo/Clasificador_de_Residuos_Solidos/main/imagenes/cnn.png)
 
-luego se aplica transfer learning mediante dos modelos ampliamente conocidos y usados en el campo de la visión por computador, estos son **VGG16** y **Resnet**.
+
+luego se aplica transfer learning mediante tres modelos ampliamente conocidos y usados en el campo de la visión por computador obteniendo los siguientes resultados:
+
+**VGG16** 
+
+
+**Resnet**
+
+
+
+**Inception + Resnet**
 
 Al final, se evalúa el desempeño mediante diferentes métricas como la matriz de confusión, la precisión, el recall y el F1 score.
 

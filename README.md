@@ -23,12 +23,16 @@ luego se aplica transfer learning mediante tres modelos ampliamente conocidos y 
 
 **VGG16** 
 
+![alt text](https://raw.githubusercontent.com/js-munozo/Clasificador_de_Residuos_Solidos/main/imagenes/vgg.png)
 
 **Resnet**
 
-
+![alt text]()
 
 **Inception + Resnet**
+
+![alt text]()
+
 
 Al final, se evalúa el desempeño mediante diferentes métricas como la matriz de confusión, la precisión, el recall y el F1 score.
 

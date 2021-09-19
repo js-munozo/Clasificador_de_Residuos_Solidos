@@ -1,5 +1,7 @@
 # Clasificador_de_Residuos_Solidos
 
+- Elaborado por:  Johan Sebastian Muñoz Ossa   -  js.munoz.ai@gmail.com
+
 Dataset de kaggle:
 https://www.kaggle.com/asdasdasasdas/garbage-classification
 

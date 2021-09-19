@@ -34,7 +34,7 @@ luego se aplica transfer learning mediante tres modelos ampliamente conocidos y 
 
 - **Resnet**
 
-![alt text]()
+![alt text](https://raw.githubusercontent.com/js-munozo/Clasificador_de_Residuos_Solidos/main/imagenes/resnet.png)
 
 
 
